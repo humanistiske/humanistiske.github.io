@@ -1,22 +1,18 @@
 [
-	{
-		"Intro": "Intro",
-		"History": "Features"
-	},
-	{
-		"Intro": "Intro",
-		"History": "OOPs"
-	},
-	{
-		"Intro": "Intro",
-		"History": "Difference c++ "
-	},
-	{
-		"Intro": "Intro",
-		"History": "JDK"
-	},
-	{
-		"Intro": "Intro",
-		"History": "Hello World Prgm"
-	},
+  {
+    "chapter": "Introduction To Java",
+    "topic" : "Java as OOP",
+  },
+  {
+    "chapter": "Introduction To Java",
+    "topic" : "JDK Architecture",
+  },
+  {
+    "chapter": "Introduction To Java",
+    "topic" : "Basic Program",
+  },
+  {
+    "chapter": "Introduction To Java",
+    "topic" : "How it works",
+  }
 ]
