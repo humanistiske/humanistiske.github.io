@@ -1,18 +1,18 @@
 [
   {
-    "chapter": "Introduction To Java",
-    "topic" : "Java as OOP",
+    "topic": "Introduction To Java",
+    "subtopic" : "Java as OOP",
   },
   {
-    "chapter": "Introduction To Java",
-    "topic" : "JDK Architecture",
+    "topic": "Introduction To Java",
+    "subtopic" : "JDK Architecture",
   },
   {
-    "chapter": "Introduction To Java",
-    "topic" : "Basic Program",
+    "topic": "Introduction To Java",
+    "subtopic" : "Basic Program",
   },
   {
-    "chapter": "Introduction To Java",
-    "topic" : "How it works",
+    "topic": "Introduction To Java",
+    "subtopic" : "How it works",
   }
 ]
